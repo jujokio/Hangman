@@ -1,0 +1,40 @@
+﻿Tässä työssä oli tarkoitus rakentaa hirsipuu
+sovellus, joka käyttää erikseen spesifioitua
+sanalista.txt tiedostoa sanojen valinnassa.
+Sanalistasta täytyi etsiä käyttäjän valitsemia
+parametrejä vastaava sana, kuten sanan pituus ja
+sanan sisältämä merkkijono. Tässä sovelluksessa 
+ei ole graafista käyttöliittymää, vaan se toimii
+komentorivillä tekstin muodossa.
+
+Ohjelman main tiedostona toimii Teht1.java, muita 
+tiedostoja ja luokkia ovat Hirsipuu.java, 
+Sanalista.java ja Sana.java. Tarvitaan myös sanalista
+tiedosto Sanalista.txt.
+Hirsipuu.java tiedosto sisältää pelaamiseen tarvittavat 
+funktiot kuten kirjaimen tarkistuksen, häviämisen ja voittamisen.
+Sanalista.java toimii sanakirjana ja valitsee arvattavan sanan 
+tekstitiedostosta. Sana.java on Sanalistan aliluokka ja kaikki
+sanalistan sanat ovat Sana-olioita.
+
+Työ on toteutettu yhteistyönä Nechir Salimin kanssa.
+
+
+
+
+In this project we (Me and Nechir Salimi) did a hangman
+application. the assignment required a spesific txt file
+("Sanalista.txt"),whitch included all the available words 
+to play hangman with. From the txt file this program randomly
+chooses one word that matches user's parametrs like length and 
+substring. There is no Gui in this game, only cmd format.
+
+Main is inside "Teht1.java" and other necessary files are 
+"Hirsipuu.java", "Sanalista.java", "Sana.java" and of course
+"Sanalista.txt".
+The "Hirsipuu.java" class includes all the needed functions to play the game
+like character checking, winning and losing.
+"Sanalista.java" is all about picking the right word from "Sanalista.txt" and
+"Sana.java" is a subclass for "Sanalista".
+
+This project was a collaboration between me and Nechir Salimi.
