@@ -1,0 +1,4 @@
+"\\\\nfstu\\jujokio\\My Documents\\JCreator LE\\MyProjects\\Viikkoteht6\\Teht1\\src\\Hirsipuu.java"
+"\\\\nfstu\\jujokio\\My Documents\\JCreator LE\\MyProjects\\Viikkoteht6\\Teht1\\src\\Sana.java"
+"\\\\nfstu\\jujokio\\My Documents\\JCreator LE\\MyProjects\\Viikkoteht6\\Teht1\\src\\Sanalista.java"
+"\\\\nfstu\\jujokio\\My Documents\\JCreator LE\\MyProjects\\Viikkoteht6\\Teht1\\src\\Teht1.java"

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Viikkoteht6</label>
+		<id>1837</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>Viikkoteht6.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Teht1\Teht1.jcp</path>
+		</project>
+	</projects>
+</workspace>
